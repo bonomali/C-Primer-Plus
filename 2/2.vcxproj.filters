@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="_2.1.c">
+    <ClCompile Include="nogood.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="_2.2.c">
+    <ClCompile Include="first.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="_2.3.c">
+    <ClCompile Include="fathm_ft.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="two_func.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

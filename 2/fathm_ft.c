@@ -1,3 +1,4 @@
+/* fathm_ft.c -- °Ñ2Ó¢Ñ°×ª»»ÎªÓ¢³ß */
 #include <stdio.h>
 int main(void) {
 	int feet, fathoms;
