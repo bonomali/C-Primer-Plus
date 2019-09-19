@@ -54,5 +54,8 @@
     <ClCompile Include="_8.c">
       <Filter>源文件\practise</Filter>
     </ClCompile>
+    <ClCompile Include="platinum.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
