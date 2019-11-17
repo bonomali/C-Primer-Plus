@@ -60,5 +60,8 @@
     <ClCompile Include="print1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="bases.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
