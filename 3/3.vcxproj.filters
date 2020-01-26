@@ -27,5 +27,8 @@
     <ClCompile Include="toobig.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="print2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
