@@ -39,5 +39,11 @@
     <ClCompile Include="showf_pt.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="floaterr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="typesize.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
