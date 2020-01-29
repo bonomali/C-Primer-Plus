@@ -48,5 +48,8 @@
     <ClCompile Include="badcount.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="escape.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
