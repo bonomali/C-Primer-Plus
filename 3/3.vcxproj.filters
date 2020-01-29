@@ -36,5 +36,8 @@
     <ClCompile Include="altnames.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="showf_pt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
