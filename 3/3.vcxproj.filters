@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\exercises">
+      <UniqueIdentifier>{bc422123-0f16-4d41-aca4-cc2ea37b3422}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\2\platinum.c">
@@ -50,6 +53,30 @@
     </ClCompile>
     <ClCompile Include="escape.c">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_1.c">
+      <Filter>源文件\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="_2.c">
+      <Filter>源文件\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="_3.c">
+      <Filter>源文件\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="_4.c">
+      <Filter>源文件\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="_5.c">
+      <Filter>源文件\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="_6.c">
+      <Filter>源文件\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="_7.c">
+      <Filter>源文件\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="_8.c">
+      <Filter>源文件\exercises</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
